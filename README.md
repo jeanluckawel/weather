@@ -58,6 +58,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 7. Visitez [http://localhost:8000](http://localhost:8000) dans votre navigateur.
 
+8. 
+
 ## Utilisation
 
 - Saisissez le nom de la ville dans le champ de recherche et appuyez sur le bouton pour obtenir les conditions météorologiques actuelles.
