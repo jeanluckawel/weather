@@ -1,5 +1,8 @@
 # WeatherApp - Application Météo  
 
+
+
+
 Une simple application météo construite avec Laravel qui utilise l'API OpenWeatherMap pour afficher les conditions météorologiques actuelles d'une ville donnée.
 
 ## Prérequis
