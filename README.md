@@ -5,6 +5,8 @@
 
 Une simple application météo construite avec Laravel qui utilise l'API OpenWeatherMap pour afficher les conditions météorologiques actuelles d'une ville donnée.
 
+
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
