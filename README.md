@@ -8,6 +8,7 @@ Une simple application météo construite avec Laravel qui utilise l'API OpenWea
 
 
 
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
