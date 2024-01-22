@@ -13,6 +13,7 @@ Une simple application météo construite avec Laravel qui utilise l'API OpenWea
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
 
+
 - [Composer](https://getcomposer.org/)
 - [PHP](https://www.php.net/)
 
